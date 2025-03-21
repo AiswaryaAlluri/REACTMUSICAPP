@@ -19,6 +19,6 @@ A sleek and modern React-based Music App that lets users stream, search, and exp
 
 🎧 Getting Started
 Clone the repo:
-   git clone https://github.com/AiswaryaAlluri/m.git
+   git clone https://github.com/AiswaryaAlluri/music-app-using-react.git
   npm install
   npm start
