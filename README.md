@@ -3,9 +3,13 @@ A sleek and modern React-based Music App that lets users stream, search, and exp
 
 🚀 Features
    ✅ Music Streaming – Play and pause songs with smooth transitions
+   
    ✅ Custom Playlists – Create, edit, and save personalized playlists
+   
    ✅ Search & Discover – Find your favorite tracks instantly
+   
    ✅ Responsive UI – Optimized for both mobile and desktop
+   
    ✅ Dark & Light Mode – Toggle between themes for a better experience
 
 🛠️ Tech Stack
